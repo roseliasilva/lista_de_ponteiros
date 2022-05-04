@@ -7,5 +7,4 @@ Alunas: Rosélia Nascimento da Silva e Quelita Míriam Nunes Ferraz.
 &nbsp;
 Professor: Agostinho de Medeiros Brito Junior.
 
-&nbsp;
-Turma : 01
+&nbsp;Turma : 01
