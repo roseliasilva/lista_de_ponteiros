@@ -2,9 +2,8 @@
 
 Lista referente a primeira unidade da matéria de programação avançada ECT/UFRN.
 
-Alunas: Rosélia Nascimento da Silva e Quelita Míriam Nunes Ferraz.
+ Alunas: Rosélia Nascimento da Silva e Quelita Míriam Nunes Ferraz.
 
-&nbsp;
-Professor: Agostinho de Medeiros Brito Junior.
+&nbsp;Professor: Agostinho de Medeiros Brito Junior.
 
 &nbsp;Turma : 01
